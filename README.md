@@ -12,6 +12,11 @@ This is a simple project with documentation files.
 - Feature A: Completed
 - Feature B: In progress
 
+## Features
+
+- Feature A: Completed
+- Feature B: In progress
+
 ## Recent Updates
 
 - Performance improvements planned
